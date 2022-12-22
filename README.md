@@ -10,7 +10,7 @@ Jnativehook jar file must be download.
 ######
 Download latest Jnativehook jar from this link:
 [Jnativehook](https://jar-download.com/artifacts/com.1stleg/jnativehook/2.1.0/source-code)
-###### Verion 1.1.5 (Recomended)
+###### Version 1.1.5 (Recomended)
 
     
 ## Authors:
